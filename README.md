@@ -1,4 +1,5 @@
 # 猫の写真をひたすら写すサービス
+https://github.com/public-apis/public-apis#animals この辺のapiを使う
 
 # command
 
@@ -27,3 +28,6 @@
 
 - create admin user
     - `docker-compose run web python manage.py createsuperuser`
+
+# 進捗
+https://docs.djangoproject.com/ja/3.1/intro/tutorial03/ まで
